@@ -415,7 +415,7 @@ _**== Получен Quest 6. С помощью скриптов из папки
 ***LOADING…***
 
 
-## Quest 7. Branches.
+## Bonus Quest 7*. Branches.
 
 \> *Посмотреть на экран*
 
